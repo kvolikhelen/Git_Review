@@ -1,5 +1,7 @@
+package first_day;
+
 public class Loop {
-  public static void main (Strings [] args) {
+  public static void main (String[] args) {
     for(int i = 0; i < 5; i++) {
     }
   }
